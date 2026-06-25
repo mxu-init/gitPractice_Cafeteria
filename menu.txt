@@ -1,15 +1,8 @@
 CAFETERÍA OPENAI
 
- 
-
-Bebidas:
-
+ Bebidas:
 - Café
-
 - Té
 
- 
-
 Postres:
-
 - Tarta de queso
